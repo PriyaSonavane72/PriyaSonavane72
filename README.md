@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Priya</h1>
+
 - 👋 Hi, I’m @PriyaSonavane72
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Html Css, JavaScript, C,C++.
@@ -10,8 +12,7 @@
 PriyaSonavane72/PriyaSonavane72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Priya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasonavane72&label=Profile%20views&color=0e75b6&style=flat" alt="priyasonavane72" /> </p>
 
